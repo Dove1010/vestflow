@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dove-1010",
+    "feat/beneficiary-index",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dove-1010": "main",
+    "feat/beneficiary-index": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dove-1010",
+    "feat/beneficiary-index",
+    "origin"
+  ]
+}
